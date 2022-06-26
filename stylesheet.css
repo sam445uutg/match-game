@@ -1,0 +1,7 @@
+.gird{
+    display: flex;
+    flex-wrap: wrap;
+    width:200px;
+    height: 400px;
+    border: 2px solid rgb(212, 41, 41);
+}
